@@ -1,11 +1,11 @@
 import React from 'react'
 import './servicesPage.css';
-import HtmlImage from '../src/assets/services/html.png'
-import CssImage from '../src/assets/services/css.png'
-import ReactImage from '../src/assets/services/react.png'
-import CsharpImage from '../src/assets/services/c-sharp.png'
-import JsImage from '../src/assets/services/java-script.png'
-import JavaImage from '../src/assets/services/java.png'
+import HtmlImage from '../public/assets/services/html.png'
+import CssImage from '../public/assets/services/css.png'
+import ReactImage from '../public/assets/services/react.png'
+import CsharpImage from '../public/assets/services/c-sharp.png'
+import JsImage from '../public/assets/services/java-script.png'
+import JavaImage from '../public/assets/services/java.png'
 
 const ServicesPage = () => {
   return (

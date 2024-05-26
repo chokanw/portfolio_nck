@@ -1,7 +1,7 @@
 import React from 'react';
-import cSharpAssignment from './assets/cSharpAssignment.png';
-import webDesignRetailAgent from './assets/webDesignRetailAgent.png';
-import personalPortfolio from './assets/personalPortfolio.png';
+import cSharpAssignment from '../public/assets/cSharpAssignment.png';
+import webDesignRetailAgent from '../public/assets/webDesignRetailAgent.png';
+import personalPortfolio from '../public/assets/personalPortfolio.png';
 import './projectsPage.css';
 const ProjectsPage = () => {
   return (

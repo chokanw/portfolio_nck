@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-import profilePhoto from './assets/profilePhoto.jpeg';
+import profilePhoto from '../public/assets/profilePhoto.jpeg';
 import './homePage.css';
 const HomePage = () => {
   return (
