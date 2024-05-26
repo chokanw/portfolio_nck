@@ -54,7 +54,6 @@
     background-color: #5a8f1d;
   }
   
-  /* Media Query for smaller screens */
   @media (max-width: 768px) {
     .content {
       flex-direction: column-reverse;
